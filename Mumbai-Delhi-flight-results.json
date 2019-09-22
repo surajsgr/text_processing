@@ -1,0 +1,662 @@
+[
+    {
+        "stops": "Nonstop",
+        "ticket price": "102.40",
+        "departure": ", Mumbai",
+        "arrival": ", Delhi",
+        "flight duration": "0 days 2 hours 25 minutes",
+        "airline": "Air India",
+        "plane": "Airbus A320",
+        "timings": [
+            {
+                "departure_airport": "Mumbai, India (BOM-Chhatrapati Shivaji Intl.)",
+                "departure_time": "6:00pm",
+                "arrival_airport": "Delhi, India (DEL-Indira Gandhi Intl.)",
+                "arrival_time": "8:25pm"
+            }
+        ],
+        "plane code": "320"
+    },
+    {
+        "stops": "Nonstop",
+        "ticket price": "102.40",
+        "departure": ", Mumbai",
+        "arrival": ", Delhi",
+        "flight duration": "0 days 2 hours 10 minutes",
+        "airline": "Air India",
+        "plane": "BOEING 777-300ER",
+        "timings": [
+            {
+                "departure_airport": "Mumbai, India (BOM-Chhatrapati Shivaji Intl.)",
+                "departure_time": "5:00pm",
+                "arrival_airport": "Delhi, India (DEL-Indira Gandhi Intl.)",
+                "arrival_time": "7:10pm"
+            }
+        ],
+        "plane code": "77W"
+    },
+    {
+        "stops": "Nonstop",
+        "ticket price": "102.40",
+        "departure": ", Mumbai",
+        "arrival": ", Delhi",
+        "flight duration": "0 days 2 hours 15 minutes",
+        "airline": "Air India",
+        "plane": "AIRBUS INDUSTRIE A321 SHARKLETS",
+        "timings": [
+            {
+                "departure_airport": "Mumbai, India (BOM-Chhatrapati Shivaji Intl.)",
+                "departure_time": "4:00pm",
+                "arrival_airport": "Delhi, India (DEL-Indira Gandhi Intl.)",
+                "arrival_time": "6:15pm"
+            }
+        ],
+        "plane code": "32B"
+    },
+    {
+        "stops": "Nonstop",
+        "ticket price": "103.20",
+        "departure": ", Mumbai",
+        "arrival": ", Delhi",
+        "flight duration": "0 days 2 hours 15 minutes",
+        "airline": "Jet Airways",
+        "plane": "BOEING 737-800 (WINGLETS) PASSENGER",
+        "timings": [
+            {
+                "departure_airport": "Mumbai, India (BOM-Chhatrapati Shivaji Intl.)",
+                "departure_time": "11:00am",
+                "arrival_airport": "Delhi, India (DEL-Indira Gandhi Intl.)",
+                "arrival_time": "1:15pm"
+            }
+        ],
+        "plane code": "73H"
+    },
+    {
+        "stops": "Nonstop",
+        "ticket price": "103.20",
+        "departure": ", Mumbai",
+        "arrival": ", Delhi",
+        "flight duration": "0 days 2 hours 15 minutes",
+        "airline": "Jet Airways",
+        "plane": "BOEING 737-800 (WINGLETS) PASSENGER",
+        "timings": [
+            {
+                "departure_airport": "Mumbai, India (BOM-Chhatrapati Shivaji Intl.)",
+                "departure_time": "8:30am",
+                "arrival_airport": "Delhi, India (DEL-Indira Gandhi Intl.)",
+                "arrival_time": "10:45am"
+            }
+        ],
+        "plane code": "73H"
+    },
+    {
+        "stops": "Nonstop",
+        "ticket price": "103.20",
+        "departure": ", Mumbai",
+        "arrival": ", Delhi",
+        "flight duration": "0 days 2 hours 10 minutes",
+        "airline": "Jet Airways",
+        "plane": "",
+        "timings": [
+            {
+                "departure_airport": "Mumbai, India (BOM-Chhatrapati Shivaji Intl.)",
+                "departure_time": "10:35pm",
+                "arrival_airport": "Delhi, India (DEL-Indira Gandhi Intl.)",
+                "arrival_time": "12:45am"
+            }
+        ],
+        "plane code": ""
+    },
+    {
+        "stops": "Nonstop",
+        "ticket price": "103.20",
+        "departure": ", Mumbai",
+        "arrival": ", Delhi",
+        "flight duration": "0 days 2 hours 0 minutes",
+        "airline": "Jet Airways",
+        "plane": "Boeing 737-800",
+        "timings": [
+            {
+                "departure_airport": "Mumbai, India (BOM-Chhatrapati Shivaji Intl.)",
+                "departure_time": "7:30am",
+                "arrival_airport": "Delhi, India (DEL-Indira Gandhi Intl.)",
+                "arrival_time": "9:30am"
+            }
+        ],
+        "plane code": "738"
+    },
+    {
+        "stops": "Nonstop",
+        "ticket price": "103.20",
+        "departure": ", Mumbai",
+        "arrival": ", Delhi",
+        "flight duration": "0 days 2 hours 25 minutes",
+        "airline": "Jet Airways",
+        "plane": "Boeing 737-800",
+        "timings": [
+            {
+                "departure_airport": "Mumbai, India (BOM-Chhatrapati Shivaji Intl.)",
+                "departure_time": "4:00pm",
+                "arrival_airport": "Delhi, India (DEL-Indira Gandhi Intl.)",
+                "arrival_time": "6:25pm"
+            }
+        ],
+        "plane code": "738"
+    },
+    {
+        "stops": "Nonstop",
+        "ticket price": "103.20",
+        "departure": ", Mumbai",
+        "arrival": ", Delhi",
+        "flight duration": "0 days 2 hours 15 minutes",
+        "airline": "Jet Airways",
+        "plane": "Boeing 737-900",
+        "timings": [
+            {
+                "departure_airport": "Mumbai, India (BOM-Chhatrapati Shivaji Intl.)",
+                "departure_time": "1:00pm",
+                "arrival_airport": "Delhi, India (DEL-Indira Gandhi Intl.)",
+                "arrival_time": "3:15pm"
+            }
+        ],
+        "plane code": "739"
+    },
+    {
+        "stops": "Nonstop",
+        "ticket price": "105.17",
+        "departure": ", Mumbai",
+        "arrival": ", Delhi",
+        "flight duration": "0 days 2 hours 15 minutes",
+        "airline": "Vistara",
+        "plane": "Airbus A320",
+        "timings": [
+            {
+                "departure_airport": "Mumbai, India (BOM-Chhatrapati Shivaji Intl.)",
+                "departure_time": "11:55am",
+                "arrival_airport": "Delhi, India (DEL-Indira Gandhi Intl.)",
+                "arrival_time": "2:10pm"
+            }
+        ],
+        "plane code": "320"
+    },
+    {
+        "stops": "Nonstop",
+        "ticket price": "105.17",
+        "departure": ", Mumbai",
+        "arrival": ", Delhi",
+        "flight duration": "0 days 2 hours 5 minutes",
+        "airline": "Vistara",
+        "plane": "Airbus A320",
+        "timings": [
+            {
+                "departure_airport": "Mumbai, India (BOM-Chhatrapati Shivaji Intl.)",
+                "departure_time": "7:30am",
+                "arrival_airport": "Delhi, India (DEL-Indira Gandhi Intl.)",
+                "arrival_time": "9:35am"
+            }
+        ],
+        "plane code": "320"
+    },
+    {
+        "stops": "Nonstop",
+        "ticket price": "105.17",
+        "departure": ", Mumbai",
+        "arrival": ", Delhi",
+        "flight duration": "0 days 2 hours 15 minutes",
+        "airline": "Vistara",
+        "plane": "Airbus A320",
+        "timings": [
+            {
+                "departure_airport": "Mumbai, India (BOM-Chhatrapati Shivaji Intl.)",
+                "departure_time": "8:45am",
+                "arrival_airport": "Delhi, India (DEL-Indira Gandhi Intl.)",
+                "arrival_time": "11:00am"
+            }
+        ],
+        "plane code": "320"
+    },
+    {
+        "stops": "Nonstop",
+        "ticket price": "105.17",
+        "departure": ", Mumbai",
+        "arrival": ", Delhi",
+        "flight duration": "0 days 2 hours 5 minutes",
+        "airline": "Vistara",
+        "plane": "Airbus A320",
+        "timings": [
+            {
+                "departure_airport": "Mumbai, India (BOM-Chhatrapati Shivaji Intl.)",
+                "departure_time": "2:40pm",
+                "arrival_airport": "Delhi, India (DEL-Indira Gandhi Intl.)",
+                "arrival_time": "4:45pm"
+            }
+        ],
+        "plane code": "320"
+    },
+    {
+        "stops": "Nonstop",
+        "ticket price": "105.17",
+        "departure": ", Mumbai",
+        "arrival": ", Delhi",
+        "flight duration": "0 days 2 hours 15 minutes",
+        "airline": "Vistara",
+        "plane": "Airbus A320",
+        "timings": [
+            {
+                "departure_airport": "Mumbai, India (BOM-Chhatrapati Shivaji Intl.)",
+                "departure_time": "10:25am",
+                "arrival_airport": "Delhi, India (DEL-Indira Gandhi Intl.)",
+                "arrival_time": "12:40pm"
+            }
+        ],
+        "plane code": "320"
+    },
+    {
+        "stops": "Nonstop",
+        "ticket price": "106.60",
+        "departure": ", Mumbai",
+        "arrival": ", Delhi",
+        "flight duration": "0 days 2 hours 5 minutes",
+        "airline": "Air India",
+        "plane": "Boeing 787-8",
+        "timings": [
+            {
+                "departure_airport": "Mumbai, India (BOM-Chhatrapati Shivaji Intl.)",
+                "departure_time": "8:00pm",
+                "arrival_airport": "Delhi, India (DEL-Indira Gandhi Intl.)",
+                "arrival_time": "10:05pm"
+            }
+        ],
+        "plane code": "788"
+    },
+    {
+        "stops": "Nonstop",
+        "ticket price": "109.75",
+        "departure": ", Mumbai",
+        "arrival": ", Delhi",
+        "flight duration": "0 days 2 hours 15 minutes",
+        "airline": "Air India",
+        "plane": "Airbus A319",
+        "timings": [
+            {
+                "departure_airport": "Mumbai, India (BOM-Chhatrapati Shivaji Intl.)",
+                "departure_time": "7:00pm",
+                "arrival_airport": "Delhi, India (DEL-Indira Gandhi Intl.)",
+                "arrival_time": "9:15pm"
+            }
+        ],
+        "plane code": "319"
+    },
+    {
+        "stops": "Nonstop",
+        "ticket price": "110.55",
+        "departure": ", Mumbai",
+        "arrival": ", Delhi",
+        "flight duration": "0 days 2 hours 10 minutes",
+        "airline": "Jet Airways",
+        "plane": "Boeing 737-800",
+        "timings": [
+            {
+                "departure_airport": "Mumbai, India (BOM-Chhatrapati Shivaji Intl.)",
+                "departure_time": "5:00pm",
+                "arrival_airport": "Delhi, India (DEL-Indira Gandhi Intl.)",
+                "arrival_time": "7:10pm"
+            }
+        ],
+        "plane code": "738"
+    },
+    {
+        "stops": "Nonstop",
+        "ticket price": "110.55",
+        "departure": ", Mumbai",
+        "arrival": ", Delhi",
+        "flight duration": "0 days 2 hours 15 minutes",
+        "airline": "Jet Airways",
+        "plane": "BOEING 737-800 (WINGLETS) PASSENGER",
+        "timings": [
+            {
+                "departure_airport": "Mumbai, India (BOM-Chhatrapati Shivaji Intl.)",
+                "departure_time": "8:45pm",
+                "arrival_airport": "Delhi, India (DEL-Indira Gandhi Intl.)",
+                "arrival_time": "11:00pm"
+            }
+        ],
+        "plane code": "73H"
+    },
+    {
+        "stops": "1 Stop",
+        "ticket price": "62.49",
+        "departure": ", Mumbai",
+        "arrival": ", Delhi",
+        "flight duration": "0 days 7 hours 10 minutes",
+        "airline": "Air India",
+        "plane": "Boeing 787-8",
+        "timings": [
+            {
+                "departure_airport": "Mumbai, India (BOM-Chhatrapati Shivaji Intl.)",
+                "departure_time": "1:35am",
+                "arrival_airport": "Ahmedabad, India (AMD-Sardar Vallabhbhai Patel Intl.)",
+                "arrival_time": "2:50am"
+            },
+            {
+                "departure_airport": "Ahmedabad, India (AMD-Sardar Vallabhbhai Patel Intl.)",
+                "departure_time": "7:10am",
+                "arrival_airport": "Delhi, India (DEL-Indira Gandhi Intl.)",
+                "arrival_time": "8:45am"
+            }
+        ],
+        "plane code": "788"
+    },
+    {
+        "stops": "1 Stop",
+        "ticket price": "64.59",
+        "departure": ", Mumbai",
+        "arrival": ", Delhi",
+        "flight duration": "0 days 18 hours 55 minutes",
+        "airline": "Air India",
+        "plane": "Boeing 787-8",
+        "timings": [
+            {
+                "departure_airport": "Mumbai, India (BOM-Chhatrapati Shivaji Intl.)",
+                "departure_time": "1:35am",
+                "arrival_airport": "Ahmedabad, India (AMD-Sardar Vallabhbhai Patel Intl.)",
+                "arrival_time": "2:50am"
+            },
+            {
+                "departure_airport": "Ahmedabad, India (AMD-Sardar Vallabhbhai Patel Intl.)",
+                "departure_time": "6:50pm",
+                "arrival_airport": "Delhi, India (DEL-Indira Gandhi Intl.)",
+                "arrival_time": "8:30pm"
+            }
+        ],
+        "plane code": "788"
+    },
+    {
+        "stops": "Nonstop",
+        "ticket price": "85.35",
+        "departure": ", Mumbai",
+        "arrival": ", Delhi",
+        "flight duration": "0 days 2 hours 25 minutes",
+        "airline": "Jet Airways",
+        "plane": "BOEING 737-800 (WINGLETS) PASSENGER",
+        "timings": [
+            {
+                "departure_airport": "Mumbai, India (BOM-Chhatrapati Shivaji Intl.)",
+                "departure_time": "9:00am",
+                "arrival_airport": "Delhi, India (DEL-Indira Gandhi Intl.)",
+                "arrival_time": "11:25am"
+            }
+        ],
+        "plane code": "73H"
+    },
+    {
+        "stops": "Nonstop",
+        "ticket price": "85.35",
+        "departure": ", Mumbai",
+        "arrival": ", Delhi",
+        "flight duration": "0 days 2 hours 15 minutes",
+        "airline": "Jet Airways",
+        "plane": "BOEING 737-800 (WINGLETS) PASSENGER",
+        "timings": [
+            {
+                "departure_airport": "Mumbai, India (BOM-Chhatrapati Shivaji Intl.)",
+                "departure_time": "6:00am",
+                "arrival_airport": "Delhi, India (DEL-Indira Gandhi Intl.)",
+                "arrival_time": "8:15am"
+            }
+        ],
+        "plane code": "73H"
+    },
+    {
+        "stops": "Nonstop",
+        "ticket price": "85.35",
+        "departure": ", Mumbai",
+        "arrival": ", Delhi",
+        "flight duration": "0 days 2 hours 5 minutes",
+        "airline": "Jet Airways",
+        "plane": "",
+        "timings": [
+            {
+                "departure_airport": "Mumbai, India (BOM-Chhatrapati Shivaji Intl.)",
+                "departure_time": "3:00am",
+                "arrival_airport": "Delhi, India (DEL-Indira Gandhi Intl.)",
+                "arrival_time": "5:05am"
+            }
+        ],
+        "plane code": ""
+    },
+    {
+        "stops": "Nonstop",
+        "ticket price": "85.35",
+        "departure": ", Mumbai",
+        "arrival": ", Delhi",
+        "flight duration": "0 days 2 hours 25 minutes",
+        "airline": "Jet Airways",
+        "plane": "",
+        "timings": [
+            {
+                "departure_airport": "Mumbai, India (BOM-Chhatrapati Shivaji Intl.)",
+                "departure_time": "8:00am",
+                "arrival_airport": "Delhi, India (DEL-Indira Gandhi Intl.)",
+                "arrival_time": "10:25am"
+            }
+        ],
+        "plane code": ""
+    },
+    {
+        "stops": "Nonstop",
+        "ticket price": "85.35",
+        "departure": ", Mumbai",
+        "arrival": ", Delhi",
+        "flight duration": "0 days 2 hours 25 minutes",
+        "airline": "Jet Airways",
+        "plane": "Boeing 737-800",
+        "timings": [
+            {
+                "departure_airport": "Mumbai, India (BOM-Chhatrapati Shivaji Intl.)",
+                "departure_time": "10:00am",
+                "arrival_airport": "Delhi, India (DEL-Indira Gandhi Intl.)",
+                "arrival_time": "12:25pm"
+            }
+        ],
+        "plane code": "738"
+    },
+    {
+        "stops": "Nonstop",
+        "ticket price": "86.65",
+        "departure": ", Mumbai",
+        "arrival": ", Delhi",
+        "flight duration": "0 days 2 hours 10 minutes",
+        "airline": "Air India",
+        "plane": "AIRBUS INDUSTRIE A321 SHARKLETS",
+        "timings": [
+            {
+                "departure_airport": "Mumbai, India (BOM-Chhatrapati Shivaji Intl.)",
+                "departure_time": "7:00am",
+                "arrival_airport": "Delhi, India (DEL-Indira Gandhi Intl.)",
+                "arrival_time": "9:10am"
+            }
+        ],
+        "plane code": "32B"
+    },
+    {
+        "stops": "1 Stop",
+        "ticket price": "86.65",
+        "departure": ", Mumbai",
+        "arrival": ", Delhi",
+        "flight duration": "0 days 4 hours 5 minutes",
+        "airline": "Air India",
+        "plane": "Airbus A319",
+        "timings": [
+            {
+                "departure_airport": "Mumbai, India (BOM-Chhatrapati Shivaji Intl.)",
+                "departure_time": "7:05am",
+                "arrival_airport": "Indore, India (IDR-Devi Ahilyabai Holkar Intl.)",
+                "arrival_time": "8:25am"
+            },
+            {
+                "departure_airport": "Indore, India (IDR-Devi Ahilyabai Holkar Intl.)",
+                "departure_time": "9:15am",
+                "arrival_airport": "Delhi, India (DEL-Indira Gandhi Intl.)",
+                "arrival_time": "11:10am"
+            }
+        ],
+        "plane code": "319"
+    },
+    {
+        "stops": "Nonstop",
+        "ticket price": "86.65",
+        "departure": ", Mumbai",
+        "arrival": ", Delhi",
+        "flight duration": "0 days 2 hours 15 minutes",
+        "airline": "Air India",
+        "plane": "AIRBUS INDUSTRIE A321 SHARKLETS",
+        "timings": [
+            {
+                "departure_airport": "Mumbai, India (BOM-Chhatrapati Shivaji Intl.)",
+                "departure_time": "10:00am",
+                "arrival_airport": "Delhi, India (DEL-Indira Gandhi Intl.)",
+                "arrival_time": "12:15pm"
+            }
+        ],
+        "plane code": "32B"
+    },
+    {
+        "stops": "Nonstop",
+        "ticket price": "86.65",
+        "departure": ", Mumbai",
+        "arrival": ", Delhi",
+        "flight duration": "0 days 2 hours 15 minutes",
+        "airline": "Air India",
+        "plane": "Boeing 787-8",
+        "timings": [
+            {
+                "departure_airport": "Mumbai, India (BOM-Chhatrapati Shivaji Intl.)",
+                "departure_time": "8:15am",
+                "arrival_airport": "Delhi, India (DEL-Indira Gandhi Intl.)",
+                "arrival_time": "10:30am"
+            }
+        ],
+        "plane code": "788"
+    },
+    {
+        "stops": "Nonstop",
+        "ticket price": "86.65",
+        "departure": ", Mumbai",
+        "arrival": ", Delhi",
+        "flight duration": "0 days 2 hours 30 minutes",
+        "airline": "Air India",
+        "plane": "AIRBUS INDUSTRIE A321 SHARKLETS",
+        "timings": [
+            {
+                "departure_airport": "Mumbai, India (BOM-Chhatrapati Shivaji Intl.)",
+                "departure_time": "9:00am",
+                "arrival_airport": "Delhi, India (DEL-Indira Gandhi Intl.)",
+                "arrival_time": "11:30am"
+            }
+        ],
+        "plane code": "32B"
+    },
+    {
+        "stops": "Nonstop",
+        "ticket price": "86.65",
+        "departure": ", Mumbai",
+        "arrival": ", Delhi",
+        "flight duration": "0 days 2 hours 15 minutes",
+        "airline": "Air India",
+        "plane": "AIRBUS INDUSTRIE A321 SHARKLETS",
+        "timings": [
+            {
+                "departure_airport": "Mumbai, India (BOM-Chhatrapati Shivaji Intl.)",
+                "departure_time": "1:00pm",
+                "arrival_airport": "Delhi, India (DEL-Indira Gandhi Intl.)",
+                "arrival_time": "3:15pm"
+            }
+        ],
+        "plane code": "32B"
+    },
+    {
+        "stops": "Nonstop",
+        "ticket price": "86.65",
+        "departure": ", Mumbai",
+        "arrival": ", Delhi",
+        "flight duration": "0 days 2 hours 15 minutes",
+        "airline": "Air India",
+        "plane": "Airbus A321",
+        "timings": [
+            {
+                "departure_airport": "Mumbai, India (BOM-Chhatrapati Shivaji Intl.)",
+                "departure_time": "8:00am",
+                "arrival_airport": "Delhi, India (DEL-Indira Gandhi Intl.)",
+                "arrival_time": "10:15am"
+            }
+        ],
+        "plane code": "321"
+    },
+    {
+        "stops": "1 Stop",
+        "ticket price": "88.74",
+        "departure": ", Mumbai",
+        "arrival": ", Delhi",
+        "flight duration": "0 days 22 hours 20 minutes",
+        "airline": "Air India",
+        "plane": "Boeing 787-8",
+        "timings": [
+            {
+                "departure_airport": "Mumbai, India (BOM-Chhatrapati Shivaji Intl.)",
+                "departure_time": "1:35am",
+                "arrival_airport": "Ahmedabad, India (AMD-Sardar Vallabhbhai Patel Intl.)",
+                "arrival_time": "2:50am"
+            },
+            {
+                "departure_airport": "Ahmedabad, India (AMD-Sardar Vallabhbhai Patel Intl.)",
+                "departure_time": "10:20pm",
+                "arrival_airport": "Delhi, India (DEL-Indira Gandhi Intl.)",
+                "arrival_time": "11:55pm"
+            }
+        ],
+        "plane code": "788"
+    },
+    {
+        "stops": "1 Stop",
+        "ticket price": "92.94",
+        "departure": ", Mumbai",
+        "arrival": ", Delhi",
+        "flight duration": "0 days 15 hours 0 minutes",
+        "airline": "Air India",
+        "plane": "AIRBUS INDUSTRIE A321 SHARKLETS",
+        "timings": [
+            {
+                "departure_airport": "Mumbai, India (BOM-Chhatrapati Shivaji Intl.)",
+                "departure_time": "5:30am",
+                "arrival_airport": "Ahmedabad, India (AMD-Sardar Vallabhbhai Patel Intl.)",
+                "arrival_time": "6:45am"
+            },
+            {
+                "departure_airport": "Ahmedabad, India (AMD-Sardar Vallabhbhai Patel Intl.)",
+                "departure_time": "6:50pm",
+                "arrival_airport": "Delhi, India (DEL-Indira Gandhi Intl.)",
+                "arrival_time": "8:30pm"
+            }
+        ],
+        "plane code": "32B"
+    },
+    {
+        "stops": "Nonstop",
+        "ticket price": "99.25",
+        "departure": ", Mumbai",
+        "arrival": ", Delhi",
+        "flight duration": "0 days 2 hours 15 minutes",
+        "airline": "Air India",
+        "plane": "BOEING 777-300ER",
+        "timings": [
+            {
+                "departure_airport": "Mumbai, India (BOM-Chhatrapati Shivaji Intl.)",
+                "departure_time": "9:00pm",
+                "arrival_airport": "Delhi, India (DEL-Indira Gandhi Intl.)",
+                "arrival_time": "11:15pm"
+            }
+        ],
+        "plane code": "77W"
+    }
+]
